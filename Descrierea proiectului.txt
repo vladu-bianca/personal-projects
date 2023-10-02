@@ -1,9 +1,0 @@
-Descrierea proiectului
-Proiectul este mai mult din perspectiva unui administrator, acesta poate adauga facultati si departmente noi
-din sectiunea "Facultati" a formularului de start si poate vedea diferite rapoarte, precum prima si ultima medie sau candidadtii inscrisi la fiecare facultate.
-Candidatii sunt adaugati tot de catre acesta, din sectiunea "Candidati". Dupa adaugarea unui candidat sunt 
-adaugate fisele de inscriere, cate una pentru fiecare facultate dorita. Astfel, trebuie mentionat codul facultatii.
-Apoi sunt adaugate optiunile pentru fiecare fisa, reprezentand departamentele dorite de la fiecare facultate.
-Am adaugat si un mic video pentru a demonstra functionalitatile proiectului.
-(La un moment dat se inchide un formular si trebuie dschis din bara)
-Daca este vreo problema, va rog mult sa ma anuntati pe mail: vladubianca20@stud.ase.ro
